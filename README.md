@@ -1,2 +1,3 @@
-# Si100-b
-hw4_yourSQL 未AC 得112/120
+Shanghaitech 2020-Spring SI100-b 
+
+HW4 yourSQL not AC (112/120)
